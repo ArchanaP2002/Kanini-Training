@@ -1,0 +1,49 @@
+.menu
+{
+    /* display: flex; */
+    position: absolute;
+width: 1530px;
+height: 60px;
+left: 90px;
+top: 0px;
+background: #FFFFFF;
+box-shadow: 0px 1px 3px rgba(86, 86, 86, 0.07);
+
+}
+
+.logo{
+position: absolute;
+width: 90px;
+height: 60px;
+left: 0px;
+top: 0px;
+background: #2C76C9;
+}
+.imglogo{
+    position: absolute;
+left: 30.56%;
+right: 97.5%;
+top: 20%;
+bottom: 96.06%;
+width: 30px;
+/* background: linear-gradient(60.63deg, rgba(255, 255, 255, 0) 19.23%, rgba(255, 255, 255, 0.49) 60.48%); */
+
+}
+.noti{
+     position: absolute;
+    height: 9.39px;
+left: 94.66%;
+right: 4.9%;
+top: calc(50% - 9.39px/2 - 513.86px);
+
+font-family: 'Core Sans C';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+text-align: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+}

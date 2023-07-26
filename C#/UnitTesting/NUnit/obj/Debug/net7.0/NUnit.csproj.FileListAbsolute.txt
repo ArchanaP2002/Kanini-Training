@@ -1,0 +1,15 @@
+C:\Users\archa\source\repos\UnitTesting\NUnit\bin\Debug\net7.0\NUnit.exe
+C:\Users\archa\source\repos\UnitTesting\NUnit\bin\Debug\net7.0\NUnit.deps.json
+C:\Users\archa\source\repos\UnitTesting\NUnit\bin\Debug\net7.0\NUnit.runtimeconfig.json
+C:\Users\archa\source\repos\UnitTesting\NUnit\bin\Debug\net7.0\NUnit.dll
+C:\Users\archa\source\repos\UnitTesting\NUnit\bin\Debug\net7.0\NUnit.pdb
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.csproj.AssemblyReference.cache
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfoInputs.cache
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfo.cs
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.dll
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\refint\NUnit.dll
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.pdb
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\NUnit.genruntimeconfig.cache
+C:\Users\archa\source\repos\UnitTesting\NUnit\obj\Debug\net7.0\ref\NUnit.dll

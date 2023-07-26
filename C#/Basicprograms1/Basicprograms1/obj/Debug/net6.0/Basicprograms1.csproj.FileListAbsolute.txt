@@ -1,0 +1,15 @@
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.csproj.AssemblyReference.cache
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.AssemblyInfoInputs.cache
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.AssemblyInfo.cs
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.csproj.CoreCompileInputs.cache
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\bin\Debug\net6.0\Basicprograms1.exe
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\bin\Debug\net6.0\Basicprograms1.deps.json
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\bin\Debug\net6.0\Basicprograms1.runtimeconfig.json
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\bin\Debug\net6.0\Basicprograms1.dll
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\bin\Debug\net6.0\Basicprograms1.pdb
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.dll
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\refint\Basicprograms1.dll
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.pdb
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\Basicprograms1.genruntimeconfig.cache
+C:\Users\archa\Downloads\Kanini\C#\Basicprograms1\Basicprograms1\obj\Debug\net6.0\ref\Basicprograms1.dll

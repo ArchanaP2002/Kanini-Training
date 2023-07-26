@@ -1,0 +1,15 @@
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\archa\source\repos\Design Pattern\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

@@ -1,0 +1,8 @@
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\bin\Debug\DB_linq.exe.config
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\bin\Debug\DB_linq.exe
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\bin\Debug\DB_linq.pdb
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\obj\Debug\DB_linq.csproj.AssemblyReference.cache
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\obj\Debug\DB_linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\obj\Debug\DB_linq.csproj.CoreCompileInputs.cache
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\obj\Debug\DB_linq.exe
+C:\Users\archa\Downloads\Kanini\C#\DB_linq\DB_linq\obj\Debug\DB_linq.pdb

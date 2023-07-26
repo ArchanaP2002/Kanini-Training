@@ -1,0 +1,70 @@
+    <!-- <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="logo">
+                        <- <a href="src/app/index/index.component.html"> ->
+                            <img src="../../src/assets/img/about1.jpg" alt="">
+                        -- </a> ->
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <nav class="nav-menu">
+                        <ul>
+                            <li><a routerLink ='/index'>Home</a></li>
+                            <li><a routerLink="/AboutUs">About Us</a></li>
+                            <li><a routerLink="/workouts">Workouts</a></li>
+                            <li><a href="#">Personal Training</a>
+                                <ul class="dropdown">
+                                    <li><a href="src/app/members/members.component.html">Member</a></li>
+                                    <li><a href="src/app/trainer/trainer.component.html">Trainer</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Site Map</a>
+                                <ul class="dropdown">
+                                    <li><a href="src/app/policy/policy.component.html">Membership Policy</a> </li>
+                                    <li><a href="src/app/terms/terms.component.html">Terms and Conditions</a> </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+
+            </div>
+        </div>
+  <img src="../assets/img/about1.jpg" id="">
+    <router-outlet></router-outlet>
+  -->
+  
+<div class="row">
+  <div class="col-lg-3">
+    <div id="logo">
+       
+          <img src="../../src/assets/img/about1.jpg" alt="">
+       
+    </div>
+  </div>
+  <div class="col-lg-6">
+    <div class="nav-menu">
+      <ul>
+        <li><a routerLink ='/index'>Home</a></li>
+        <li><a routerLink="/aboutus">About Us</a></li>
+        <li><a routerLink="/workouts">Workouts</a></li>
+        <li><a routerLink="#">Personal Training</a>
+            <ul class="dropdown">
+                <li><a routerLink="/member">Member</a></li>
+                <li><a routerLink="/trainer">Trainer</a></li>
+            </ul>
+        </li>
+        <li><a routerLink="#">Site Map</a>
+            <ul class="dropdown">
+                <li><a routerLink="/policy">Membership Policy</a> </li>
+                <li><a routerLink="/terms">Terms and Conditions</a> </li>
+            </ul>
+        </li>
+        <li><a routerLink="/login">Login</a></li>
+        <li><a routerLink="/register">Register</a></li>
+    </ul>
+    </div>
+  </div>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,15 @@
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.csproj.AssemblyReference.cache
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.AssemblyInfoInputs.cache
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.AssemblyInfo.cs
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\archa\source\repos\UnitTesting\MathOperations\bin\Debug\net7.0\MathOperations.exe
+C:\Users\archa\source\repos\UnitTesting\MathOperations\bin\Debug\net7.0\MathOperations.deps.json
+C:\Users\archa\source\repos\UnitTesting\MathOperations\bin\Debug\net7.0\MathOperations.runtimeconfig.json
+C:\Users\archa\source\repos\UnitTesting\MathOperations\bin\Debug\net7.0\MathOperations.dll
+C:\Users\archa\source\repos\UnitTesting\MathOperations\bin\Debug\net7.0\MathOperations.pdb
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.dll
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\refint\MathOperations.dll
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.pdb
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\MathOperations.genruntimeconfig.cache
+C:\Users\archa\source\repos\UnitTesting\MathOperations\obj\Debug\net7.0\ref\MathOperations.dll

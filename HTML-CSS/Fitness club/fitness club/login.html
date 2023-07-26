@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script1.js"></script>
+    
+    <title>LOGIN FORM</title>
+  </head>
+  <body><br><br><br><br><br>
+    <header>
+      <h3>LOGIN FORM</h3>
+    </header><br><br><br><br><br>
+    <main class="login">
+      
+         
+          <label style="padding-left: 570px;">Email</label><br>
+          <center>
+          <input type="email" id="emailId" name="mail" onblur="emailValidation()" placeholder="email"><br><br></center>
+          <label style="padding-left: 570px;">Password</label><br>
+          <center>
+          <input type="password" id="pass" placeholder="password">
+        </center><br><br>
+         <center>
+      <table>
+        <tr>
+          <td><input type="button" value="LOGIN" id="order" onclick="myfunc()"></td>
+          <td><a href="register.html"><input type="button" value="REGISTER" id="order"/></a></td>
+        </tr>
+      </table>
+    </center>
+    <h3>
+      <div id="result"></div>
+    </h3>
+    </main>
+  </body>
+</html>

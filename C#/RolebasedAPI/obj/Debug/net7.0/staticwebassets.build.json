@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5IK7sCXGSzsqapWNwrW9PqlzQ0UrsszxEKwCumHchY4=",
+  "Source": "RolebasedAPI",
+  "BasePath": "_content/RolebasedAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

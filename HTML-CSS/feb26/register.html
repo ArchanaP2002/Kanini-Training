@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js"></script>
+    
+    <title>REGISTERATION FORM</title>
+  </head>
+  <body>
+    <header>
+      <h3>REGISTERATION FORM</h3>
+    </header>
+    <main>
+      <table>
+        <thead>
+          <tr>
+            <td colspan="2" class="title"><label>Personal Details</label></td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><label>Name</label></td>
+            <td><input type="text" id="name" onblur="validateName()"/></td>
+          </tr>
+          <tr>
+            <td><label>Phone Number</label></td>
+            <td><input type="tel" id="phoneNumber" onblur="validateContactNo()"/></td>
+          </tr>
+          <tr>
+            <td><label>Email</label></td>
+            <td><input type="email" id="emailId" onblur="emailValidation()"/></td>
+          </tr>
+          <tr>
+            <td class="address"><label>Password</label></td>
+            <td><input type="password" id="pass"/></td>
+          </tr>
+         
+        </tbody>
+      </table>
+      <br>
+      <input type="button" value="SUBMIT" id="order" onclick="myfunction()"/>
+      
+      <div id="result"></div>
+    </main>
+  </body>
+</html>

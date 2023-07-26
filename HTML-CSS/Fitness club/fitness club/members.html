@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="keywords" content="Gym, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FitnessClub</title>
+    <script src="https://use.fontawesome.com/851450b34b.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <script src="script.js"></script>
+
+<body>
+    
+    <header class="header-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="logo">
+                        <a href="./index.html">
+                            <img src="./img/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <nav class="nav-menu"> 
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about-us.html">About Us</a></li>
+                            <li><a href="workouts.html">Workouts</a></li>
+                            <li><a href="#">Personal Training</a>
+                                <ul class="dropdown">
+                                    <li><a href="members.html">Member</a></li>
+                                    <li><a href="trainer.html">Trainer</a></li>
+                                </ul>
+                            </li>
+                             
+                            <li><a href="#">Site Map</a>
+                            <ul class="dropdown">
+                                <li><a href="policy.html">Membership Policy</a> </li>
+                                <li><a href="terms.html">Terms and Conditions</a> </li>
+                            </ul>
+                        </li>
+                        </ul>
+                    </nav>
+                </div>        
+            
+        </div>
+    </header>
+     
+    <section class="breadcrumb-section set-bg"
+     data-setbg="img/breadcrumb-bg.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="breadcrumb-text">
+                        <h2>Members</h2>
+                        <div class="bt-option">
+                            <a href="index.html">Home</a>
+                            
+                            <span>Members</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+     
+    <section class="contact-section spad">
+        <div class="container">
+                <div class="col-lg-6">
+                    <div class="leave-comment">
+                        <form action="#">
+                            <input type="text" placeholder="Name" id="name" onblur="validatename()" ><div id="resultname"></div>
+                            <input type="email" placeholder="Email" id="emailId" onblur="validateemail()"><div id="resultemail"></div>
+                            <input type="tel" placeholder="Contact Number" id="phoneNumber" onblur="validatephnno()"><div id="resultphno"></div>
+                            <textarea placeholder="Comment"></textarea> 
+                        </div>
+                             
+                            <label for="checkbox" id="tc">
+                                <input type="checkbox" value="Accept the terms and Conditions" id="checkbox" > 
+                                I do accept the accept the <span><a href="">Terms and Conditions</a></span> and read all the policies.
+                            </label>
+                            
+                            <button type="button" onclick="submit() ">Submit</button><div id="resultbtn"></div>
+                        </form>
+                       
+                    </div>
+                </div>
+            </div>
+             
+        </div>
+    </section>
+     
+    <div class="gettouch-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="gt-text">
+                        <a href="https://goo.gl/maps/zjCXap3CQ7mpuA4u9">
+                            
+                            <i class="fa fa-map-marker"></i>
+                        </a>                        
+                        <p> 15A,2nd link road,Ashok Nagar,Chennai<br/> 600014</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gt-text">
+                        <i class="fa fa-mobile"></i>
+                        <ul>
+                            <li>+91-1234056789</li>
+                            <li>+91-5892453835</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="gt-text email">
+                        <a href="mailto:fitnessclub@gmail.com">
+                        <i class="fa fa-envelope"></i></a>
+                        <p><a href="mailto:fitnessclub@gmail.com">fitnessclub@gmail.com</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="fs-about">
+                        <div class="fa-logo">
+                            <a href="#"><img src="img/logo.png" alt=""></a>
+                        </div>
+                        <p>Being physically active can improve your brain health, help manage weight, reduce the risk of disease, strengthen bones and muscles, and improve your ability to do everyday activities.</p>
+                          <div class="fa-social">
+                            <a href="https:\\www.facebook.com"><i class="fa fa-facebook"></i></a>
+                            <a href="https:\\www.twitter.com"><i class="fa fa-twitter"></i></a>
+                            <a href="https:\\www.youtube.com"><i class="fa fa-youtube-play"></i></a>
+                            <a href="https:\\www.instagram.com"><i class="fa fa-instagram"></i></a>
+                            <a href="mailto:fitnessclub@gmail.com"><i class="fa  fa-envelope-o"></i></a>
+                        </div>
+                    </div>
+                </div>
+                 
+                <div class="col-lg-4 col-md-6">
+                    <div class="fs-widget">
+                        <h4>Tips & Guides</h4>
+                        <div class="fw-recent">
+                            <h6> Physical fitness may help prevent depression, anxiety</a></h6>
+                             
+                        </div>
+                        <div class="fw-recent">
+                            <h6> Fitness: The best exercise to lose belly fat and tone up...</a></h6>
+                            <ul>
+                                 
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="copyright-text">
+                        <p>
+                              FitnessClub@Copyright 2023 
+                        </p>
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </section>
+     <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/main.js"></script> 
+ 
+</body>
+
+</html>

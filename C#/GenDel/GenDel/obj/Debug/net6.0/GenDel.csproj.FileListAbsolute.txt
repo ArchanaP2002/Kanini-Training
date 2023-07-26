@@ -1,0 +1,15 @@
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\bin\Debug\net6.0\GenDel.exe
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\bin\Debug\net6.0\GenDel.deps.json
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\bin\Debug\net6.0\GenDel.runtimeconfig.json
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\bin\Debug\net6.0\GenDel.dll
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\bin\Debug\net6.0\GenDel.pdb
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.csproj.AssemblyReference.cache
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.AssemblyInfoInputs.cache
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.AssemblyInfo.cs
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.csproj.CoreCompileInputs.cache
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.dll
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\refint\GenDel.dll
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.pdb
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\GenDel.genruntimeconfig.cache
+C:\Users\archa\Downloads\Kanini\C#\GenDel\GenDel\obj\Debug\net6.0\ref\GenDel.dll
